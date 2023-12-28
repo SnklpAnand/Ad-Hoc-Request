@@ -12,6 +12,9 @@
              🟆 Top sellers were Pen Drives in N&P, Mouses in P&A, and Personal Laptops in PC.
 
 
+Following is the link for the post : https://www.linkedin.com/posts/snklpanand_sql-learningandgrowing-problemsolving-activity-7146120052352753664-Ipx9?utm_source=share&utm_medium=member_desktop
+
+
 
 
 
