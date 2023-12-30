@@ -8,7 +8,7 @@
 
 ● RESULT - Following were the key insights from the analysis:
              🟆 Atliq Hardwares had a great increase in sales from 2020 to 2021, showing potential for more growth.
-             🟆 COVID-19 had a bad impact on Atliq Exclusive's sales. Sales dropped in March and April 2020 but recovered with a surge in November and December 2020.
+             🟆 COVID-19 had a bad impact on Atliq Hardwares' sales. Sales dropped in March and April 2020 but recovered with a surge in November and December 2020.
              🟆 Top sellers were Pen Drives in N&P, Mouses in P&A, and Personal Laptops in PC.
 
 
