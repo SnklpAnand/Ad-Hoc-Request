@@ -1,4 +1,4 @@
-# Ad-Hoc-Request
+# Consumer Data Analysis
 
 ● SITUATION - Atliq Hardware, a top computer hardware company in India, is doing well but realizes they need to make faster and smarter decisions using data. To do this, they want to hire new, smart people for their data analytics team. This will help them make better choices and stay ahead of other companies.
 
